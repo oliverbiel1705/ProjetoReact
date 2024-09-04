@@ -65,6 +65,6 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 <br>
 
-## 🙋🏻‍♂️ Autor
+## 
 
 
