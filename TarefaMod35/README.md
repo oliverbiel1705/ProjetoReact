@@ -65,6 +65,6 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 <br>
 
-## 
+Link do figma: https://www.figma.com/file/FiFpwvwwHX0rCbrXatjMg4/EPLAY?type=design&node-id=0-1& mode=design.
 
 
